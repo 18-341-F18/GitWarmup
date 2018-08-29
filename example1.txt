@@ -1,0 +1,15 @@
+This is a normal text file. Git allows you modify files like this however you'd like; plus it even keep track of the entire edit history!
+
+1. One of your beloved TAs has been away from school too long and forgot how to count! See if you can fix his mistake :)
+
+One
+Two
+Three
+??? Crikey what comes after three?
+Five
+
+2. What are you most interested in learning in 18-341 this semester?
+
+3. What are your and your partner's Andrew IDs? See if you can fill in this section without asking them out loud.
+  <first id>
+  <second id>
